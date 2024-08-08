@@ -14,3 +14,9 @@ This project aims to classify breast cancer cells as malignant or benign using v
 - **Model Training**: Applied multiple machine learning algorithms to classify the cells.
 - **Feature Detection**: Utilized K-Means clustering to detect and differentiate feature values between malignant and benign cells.
 - **Results**: Achieved high classification accuracies, with SVM performing the best at 97%.
+
+## License
+This Data has a CC BY-NC-SA 4.0 License You can review the license rules from the link below
+
+License Link: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
